@@ -2,7 +2,7 @@
 
 The last glow of a sunset through a rain-misted window, with dusky plum surfaces, amber accents and a coordinated dark interface.
 
-![Misty Sunset desktop preview](preview.png?v=2026-10-12)
+![Misty Sunset desktop preview](preview.png?v=2026-10-12b)
 
 ## Install
 
