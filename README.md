@@ -1,12 +1,8 @@
 # Misty Sunset
 
-Warm sunset light through misted glass, with amber accents and a coordinated dark interface.
+The last glow of a sunset through a rain-misted window, with dusky plum surfaces, amber accents and a coordinated dark interface.
 
-![Misty Sunset — logo desktop preview](preview.png)
-
-![Misty Sunset — wordmark desktop preview](preview-wordmark.png)
-
-![Misty Sunset — background-only desktop preview](preview-background.png)
+![Misty Sunset desktop preview](preview.png?v=2026-10-12)
 
 ## Install
 
@@ -16,20 +12,44 @@ For **Omarchy 4 with Omarchy Shell**:
 omarchy theme install https://github.com/erikrjohansson/omarchy-misty-sunset-theme
 ```
 
-Use `omarchy theme bg next` to cycle through the logo, wordmark, and background-only wallpapers.
+## Update
+
+To get new wallpapers and fixes, update your installed themes, then apply Misty Sunset again so Omarchy picks up the new files:
+
+```sh
+omarchy theme update
+omarchy theme set misty-sunset
+```
+
+## Remove
+
+Switch to another theme first (for example with `omarchy theme switcher`), then remove Misty Sunset:
+
+```sh
+omarchy theme remove misty-sunset
+```
 
 ## The theme
 
-- Misted glass with Omarchy artwork traced through the condensation, plus a background-only variant.
-- A softly tinted top bar that keeps its text readable over the bright sky.
-- Smoky charcoal surfaces, amber accents, and warm cream text.
+- The afterglow just after sunset seen through a wet window, with coral light over misty hills and water.
+- A top bar in the same dusky plum as the windows.
+- Plum-charcoal surfaces, amber accents, warm cream text, coral-rose for errors and lilac from the evening mist.
 - Translucent menus and shell panels, coordinated terminal and editor colors, GTK 3 / GTK 4 styling, and Adwaita icons.
 
 ## Wallpapers
 
-Three **2560 × 1440** wallpapers are included.
+Two 6K (6016 × 3384) wallpapers: lake (default) and afterglow. Switch between them with `omarchy theme bg next`, or from the Omarchy menu under Style → Background.
 
-[Logo](backgrounds/01-sunset-logo.png) · [Wordmark](backgrounds/02-sunset-wordmark.png) · [Background only](backgrounds/03-sunset-background.png)
+<table>
+  <tr>
+    <td width="50%"><img src="previews/lake.jpg" alt="Lake wallpaper, Misty Sunset"></td>
+    <td width="50%"><img src="previews/afterglow.jpg" alt="Afterglow wallpaper, Misty Sunset"></td>
+  </tr>
+  <tr>
+    <td align="center">Lake</td>
+    <td align="center">Afterglow</td>
+  </tr>
+</table>
 
 ## Misted Glass collection
 
@@ -37,4 +57,4 @@ Three **2560 × 1440** wallpapers are included.
 
 ## License
 
-[MIT](LICENSE) · [Omarchy artwork attribution](THIRD_PARTY_NOTICES.md)
+[MIT](LICENSE)
