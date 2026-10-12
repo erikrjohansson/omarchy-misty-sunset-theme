@@ -34,7 +34,7 @@ omarchy theme remove misty-sunset
 - The afterglow just after sunset seen through a wet window, with coral light over misty hills and water.
 - A top bar in the same dusky plum as the windows.
 - Plum-charcoal surfaces, amber accents, warm cream text, coral-rose for errors and lilac from the evening mist.
-- Translucent menus and shell panels, coordinated terminal and editor colors, GTK 3 / GTK 4 styling, and Adwaita icons.
+- Translucent menus and shell panels, coordinated terminal and editor colors, GTK 3 / GTK 4 styling, and Yaru icons with amber folders.
 
 ## Wallpapers
 
